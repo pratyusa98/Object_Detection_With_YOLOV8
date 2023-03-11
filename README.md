@@ -9,13 +9,13 @@ Dataset: https://universe.roboflow.com/
 
 YOLO Model: https://github.com/ultralytics/ultralytics
 
-Some Output For Pretrain YOLO
+# Some Output For Pretrain YOLO
 
 | Image 1 | Image 2 |
 |---------|---------|
 | <img src="Images/output_yolo/20150955e9d42773a42.png" width="600"> | <img src="Images/output_yolo/WEDZE_SERENITY_500_SNOWBOARD_BLU_AH20_2000x.png" width="600"> |
-
-Some Output For Custom Train For Bad and Good Apple
+ 
+# Some Output For Custom Train For Good And Damaged Apple
 
 | Image 1 | Image 2 |
 |---------|---------|
