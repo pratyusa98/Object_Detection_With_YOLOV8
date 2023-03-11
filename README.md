@@ -7,7 +7,7 @@ YOLO Object Detection
 
 Dataset: https://universe.roboflow.com/
 
-YOLO Model: https://github.com/ultralytics/ultralytics
+YOLO Model: https://github.com/ultralytics/ultralytics | https://github.com/ultralytics | https://github.com/ultralytics/assets/releases
 
 # Some Output For Pretrain YOLO
 
