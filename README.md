@@ -18,4 +18,4 @@ Some Output For Pretrain YOLO
 
 Some Output For Custom Train For Bad and Good Apple
 
-<img src="Images/output_yolo/wrinkled-fresh-apple-isolated-on-260nw-207518032.png">
+<img src="Images/output_yolo/apples-release-a-gas-that-can-cause-other-apples-to-rot-1638304847.png">
